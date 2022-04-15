@@ -1,2 +1,2 @@
 # Amazean
-A community-made decompilation of https://mazean.com/
+An accurate decompilation of https://mazean.com/
